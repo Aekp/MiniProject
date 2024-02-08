@@ -1,5 +1,7 @@
 # Sentiment Analysis and Light Control System
 
+![Example Image](images/lightcontrol.png)
+
 ## Overview
 
 This project is a sentiment analysis and light control system that uses speech recognition to analyze the sentiment of spoken words and adjust the color and brightness of lights accordingly. It leverages advanced speech recognition technology and natural language processing techniques to provide real-time feedback through lighting effects.
