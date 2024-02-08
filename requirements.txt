@@ -1,3 +1,6 @@
+requests
+json
 sounddevice
 wavio
 scipy
+nltk
